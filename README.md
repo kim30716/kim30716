@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Nice to meet you. 
+
+This is a playground for us. 
+
 <!--
 **kim30716/kim30716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
